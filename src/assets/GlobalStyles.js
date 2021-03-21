@@ -192,7 +192,7 @@ body {
   }
 
   .toggle-button {
-    right: -167px;
+    right: -170px;
   }
 }
 `;
