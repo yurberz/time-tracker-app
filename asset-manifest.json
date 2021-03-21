@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/time-tracker-app/static/css/main.9f061969.chunk.css",
+    "main.js": "/time-tracker-app/static/js/main.27a0fbec.chunk.js",
+    "main.js.map": "/time-tracker-app/static/js/main.27a0fbec.chunk.js.map",
+    "runtime-main.js": "/time-tracker-app/static/js/runtime-main.722168a6.js",
+    "runtime-main.js.map": "/time-tracker-app/static/js/runtime-main.722168a6.js.map",
+    "static/js/2.8f5f19ef.chunk.js": "/time-tracker-app/static/js/2.8f5f19ef.chunk.js",
+    "static/js/2.8f5f19ef.chunk.js.map": "/time-tracker-app/static/js/2.8f5f19ef.chunk.js.map",
+    "index.html": "/time-tracker-app/index.html",
+    "static/css/main.9f061969.chunk.css.map": "/time-tracker-app/static/css/main.9f061969.chunk.css.map",
+    "static/js/2.8f5f19ef.chunk.js.LICENSE.txt": "/time-tracker-app/static/js/2.8f5f19ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722168a6.js",
+    "static/js/2.8f5f19ef.chunk.js",
+    "static/css/main.9f061969.chunk.css",
+    "static/js/main.27a0fbec.chunk.js"
+  ]
+}
