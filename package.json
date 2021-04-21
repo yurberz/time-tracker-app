@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://yurberz.github.io/time-tracker-app",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.5.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
@@ -13,9 +12,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0",
-    "react-redux": "^7.2.2",
     "react-scripts": "4.0.3",
-    "redux": "^4.0.5",
     "shortid": "^2.2.16",
     "styled-components": "^5.2.1",
     "web-vitals": "^1.1.1"
